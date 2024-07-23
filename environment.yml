@@ -17,3 +17,6 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-caret
+  - r-kernlab
+  - r-randomforest
+  - r-ellipse

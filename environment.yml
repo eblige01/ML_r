@@ -18,5 +18,5 @@ dependencies:
   - r-stringr
   - r-caret
   - r-kernlab
-  - r-randomforest
+  - r-randomForest
   - r-ellipse

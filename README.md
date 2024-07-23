@@ -2,6 +2,7 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eblige01/ML_r/main)
 
+This was used the tutorial found here: https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
